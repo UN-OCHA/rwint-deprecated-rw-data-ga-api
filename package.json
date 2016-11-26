@@ -1,0 +1,24 @@
+{
+  "name": "ga-api",
+  "version": "0.0.4",
+  "description": "Google analytics API access via node -- updated to GA API v4",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baripembo/ga-api.git"
+  },
+  "keywords": [
+    "GA",
+    "Google",
+    "Analytics",
+    "API"
+  ],
+  "dependencies": {
+    "googleapis": "^14.1.0",
+    "dotenv": "^2.0.0",
+    "lodash": "^4.16.6"
+  }
+}
