@@ -1,5 +1,7 @@
 # ga-api
 
+Forked from [jsguy/ga-api](https://github.com/jsguy/ga-api)
+
 Google Analytics API access, with automated concurrency limiting and optional request caching.
 
 ## Installation
